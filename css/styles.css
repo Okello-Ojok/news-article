@@ -1,8 +1,8 @@
-h2 {
+.introduction h2 {
   color: blue;
   font-style: oblique;
 }
-p {
+.introduction p {
   color: red;
 }
 img {
